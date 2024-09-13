@@ -1,4 +1,6 @@
-EMC testnet cuda gpu 矿池
+EMC testnet cuda 测试网挖矿项目
+
+
 
 EMP挖矿项目
 
