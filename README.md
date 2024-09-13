@@ -43,6 +43,6 @@ chmod +x guaguagua_linux && chmod +x emc_cuda_pool
 收益比例为
 每个tx 0.05 EMC + 0.05EMP
 
-
+3070 大概1-2秒一个TX~
 自由发挥~
 
