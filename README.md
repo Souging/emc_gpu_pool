@@ -25,10 +25,12 @@ EMP 代币地址
 
    git clone https://mirror.ghproxy.com/https://github.com/Souging/emc_gpu_pool.git
 
-   然后
+然后
    cd emc_gpu_pool
-   给予运行权限
-  chmod +x guaguagua_linux && chmod +x emc_cuda_pool
+
+给予运行权限
+
+chmod +x guaguagua_linux && chmod +x emc_cuda_pool
 
 
 2.命令运行 
