@@ -30,6 +30,10 @@ chmod +x guaguagua_linux && chmod +x emc_cuda_pool
 
 2.命令运行
 
+矿池不断优化中。 请使用循环命令来保持程序一直运行
+ while true; do timeout ./emc_cuda_pool -miner 0x1234567891234578912 -pool 69.165.74.244:17189; sleep 1; done
+
+
 ./emc_cuda_pool -miner 0x1234567891234578912 -pool 69.165.74.244:17189     替换你的钱包地址 和矿池地址
 
 目前
