@@ -1,5 +1,12 @@
 EMC testnet cuda 测试网挖矿项目
 
+该项目为测试项目 请避免金钱交易。
+
+
+
+加入tg群。 第一时间获取最新版本更新
+https://t.me/+h_yk1Pa3GlQ0NDZl
+
 
 EMC链上卡TX不是我的问题。 链的问题 。尽量优化了
 
