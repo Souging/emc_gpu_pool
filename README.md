@@ -11,7 +11,7 @@ emp 代币地址
 
 2.命令运行 
 
-./emc_gpu -miner 0x123456789
+./emc_cuda_pool -miner 0x123456789
 替换成你的钱包地址
 
 3. 钱包收到 emp后想换成emc
