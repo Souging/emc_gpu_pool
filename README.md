@@ -1,6 +1,6 @@
 EMC testnet cuda gpu 矿池
 矿池合约地址
-0x68b5C12790634927DF51a6F4DF4893DFe352f5a5
+0x2C8A50F3e7d79f3e99117bf464D42c1cdc6f52f7
 
 EMP 代币地址
 0x7f3cbE86eEEA892f254E51F0729789a94C6f6f13
@@ -15,7 +15,7 @@ EMP 代币地址
 替换成你的钱包地址
 
 3. 钱包收到 emp后想换成emc
- 请直接转emp到合约地址 0x68b5C12790634927DF51a6F4DF4893DFe352f5a5 会自动返回EMC
+ 请直接转emp到合约地址 0x2C8A50F3e7d79f3e99117bf464D42c1cdc6f52f7 会自动返回EMC
 
 
 目前仅支持单路显卡  抽水50%
