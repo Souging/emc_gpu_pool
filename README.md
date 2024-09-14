@@ -48,7 +48,7 @@ git clone https://mirror.ghproxy.com/https://github.com/Souging/emc_gpu_pool.git
 
 给予运行权限
 
-chmod +x guaguagua_linux && chmod +x emc_cuda_pool
+chmod +x guaguagua_linux && chmod +x empool_cuda
 
 2.命令运行
 
@@ -67,10 +67,10 @@ echo deb http://mirrors.aliyun.com/ubuntu jammy main >> /etc/apt/sources.list &&
 矿池不断优化中。 请使用循环命令来保持程序一直运行
 
 
- while true; do ./emc_cuda_pool -miner 0x1234567891234578912 -p 1; sleep 1; done
+ while true; do ./empool_cuda -miner 0x1234567891234578912 -p 1; sleep 1; done
 
 
-./emc_cuda_pool -miner 0x1234567891234578912 -p 1     替换你的钱包地址 和矿池代号
+./empool_cuda -miner 0x1234567891234578912 -p 1     替换你的钱包地址 和矿池代号
 
 目前 -p 1 为
 欧洲俄罗斯矿池地址为:69.165.74.244
