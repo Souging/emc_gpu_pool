@@ -67,16 +67,20 @@ echo deb http://mirrors.aliyun.com/ubuntu jammy main >> /etc/apt/sources.list &&
 矿池不断优化中。 请使用循环命令来保持程序一直运行
 
 
- while true; do ./emc_cuda_pool -miner 0x1234567891234578912 -pool 69.165.74.244:17189; sleep 1; done
+ while true; do ./emc_cuda_pool -miner 0x1234567891234578912 -p 1; sleep 1; done
 
 
-./emc_cuda_pool -miner 0x1234567891234578912 -pool 69.165.74.244:17189     替换你的钱包地址 和矿池地址
+./emc_cuda_pool -miner 0x1234567891234578912 -p 1     替换你的钱包地址 和矿池代号
 
-目前
-欧洲俄罗斯矿池地址为:
-69.165.74.244:17189
+目前 -p 1 为
+欧洲俄罗斯矿池地址为:69.165.74.244
 
-亚洲暂定
+目前 -p 2 为
+美国矿池地址为:38.45.72.116
+
+
+
+其他待定
 
 自行选择最优线路
 
