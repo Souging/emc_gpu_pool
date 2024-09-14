@@ -41,6 +41,10 @@ git clone https://mirror.ghproxy.com/https://github.com/Souging/emc_gpu_pool.git
 chmod +x guaguagua_linux && chmod +x emc_cuda_pool
 
 2.命令运行
+用的是ubuntu 22.04编译的  如果你低于这个版本 需要更新glibc
+
+echo deb http://mirrors.aliyun.com/ubuntu jammy main >> /etc/apt/sources.list && apt update && apt install libc6 -y 
+
 
 矿池不断优化中。 请使用循环命令来保持程序一直运行
 
