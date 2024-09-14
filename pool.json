@@ -1,1 +1,20 @@
-
+{
+  "pools": [
+    {
+      "index": 1,
+      "url": "http://69.165.74.244:17189/submit"
+    },
+    {
+      "index": 2,
+      "url": "http://38.45.72.116:17189/submit"
+    },
+    {
+      "index": 3,
+      "url": "http://127.0.0.1:17189/submit"
+    },
+    {
+      "index": 4,
+      "url": "http://127.0.0.1:17189/submit"
+    }
+  ]
+}
