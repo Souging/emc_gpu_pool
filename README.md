@@ -23,7 +23,16 @@ EMP 代币地址 0x8d575AdcDbfa2068F7e904E9E222bF47B8375614
 
 EMP代币 上限100亿 创建时已经全部打入合约 无法取出 只能靠挖 大家加油 
 
-马上再出EMP/EMC  swap 池子。 添加流动性 让你们交易.
+SWAP地址
+
+
+https://espoir1989.github.io/EMC-Swap/#/swap
+
+加入token list
+
+https://raw.githubusercontent.com/Souging/emc_gpu_pool/main/token.json
+
+EMP/EMC  swap 池子。 添加流动性 让你们交易.
 
 
 请在钱包内添加代币地址
