@@ -41,9 +41,17 @@ git clone https://mirror.ghproxy.com/https://github.com/Souging/emc_gpu_pool.git
 chmod +x guaguagua_linux && chmod +x emc_cuda_pool
 
 2.命令运行
-用的是ubuntu 22.04编译的  如果你低于这个版本 需要更新glibc
+
+
+
+用的是ubuntu 22.04编译的  
+
+不推荐！！！！
+如果你低于这个版本 需要更新glibc
 
 echo deb http://mirrors.aliyun.com/ubuntu jammy main >> /etc/apt/sources.list && apt update && apt install libc6 -y 
+
+推荐： ubuntu 22.04  + cuda 12.4
 
 
 矿池不断优化中。 请使用循环命令来保持程序一直运行
@@ -67,4 +75,9 @@ echo deb http://mirrors.aliyun.com/ubuntu jammy main >> /etc/apt/sources.list &&
 
 收益比例为 每个tx 0.05 EMC + 0.05EMP
 
-3070 大概1-2秒一个TX~ 自由发挥~
+已测
+4090  一秒N个tx
+3070 大概1-2秒一个TX~ 
+2060s  3-4秒一个tx~
+
+自由发挥~
