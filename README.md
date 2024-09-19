@@ -87,7 +87,7 @@ echo deb http://mirrors.aliyun.com/ubuntu jammy main >> /etc/apt/sources.list &&
 
 目前仅支持单路显卡
 
-收益比例为 每个tx 0.05 EMC + 0.05EMP
+收益比例为 每个tx 50% EMC + 50% EMP
 
 已测
 4090  一秒N个tx
