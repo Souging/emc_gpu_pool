@@ -11,6 +11,8 @@ while true; do timeout 60 python3 gateway.py; sleep 1; done
 2. 直接用make命令编译cu
 
 
-3.直接运行 go run run.go  来调用cuda回显
+3.直接运行 go run run.go -miner 0x12345678912345678912 -p 1  
+
+  来调用cuda回显并提交到网关
 
 
