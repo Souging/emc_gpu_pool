@@ -1,9 +1,9 @@
 NVCC=nvcc
 LDFLAGS=-Xcompiler="-pthread" -lcurand
 CUDAFLAGS=-dc 
-SOURCES=common.cu sha3.cu main.cu
+SOURCES=sha3.cu main.cu
 OBJECTS=$(SOURCES:.cu=.o)
-EXECUTABLE=guaguagua_linux
+EXECUTABLE=test
 
 all: $(EXECUTABLE)
 
